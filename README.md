@@ -22,7 +22,7 @@ Este projeto visa validar o cadastro de usuário no portal Tools QA. Foram criad
  - Instalar o Bundler
  - Instalar Selenium (gem install selenium-webdriver)
 
-Obs: Depois de fazer dowload do ruby seu devkit utilizei o Cmder para a instação e configuração do ambiente (instalação gems (ruby,cucumber e selenium).
+Obs: Depois de fazer dowload do ruby e devkit utilizei o Cmder para a instação e configuração do ambiente (instalação gems (ruby,cucumber e selenium).
 Para escrever os cenários em Gherkin e Selenium utilizei o editor de texto Sublime Text.
 
 # Recursos de execução
