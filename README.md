@@ -11,10 +11,10 @@ Este projeto visa validar o cadastro de usuário no portal Tools QA. Foram criad
 •	Validação de valores correspondentes inseridos nos campos Senha e Confirmar Senha.
 
 # Instalação
-•	Firebug
-•	Chrome
-•	Cmder (Console Emultator)
-•	Sublime Text
+•	Firebug.
+•	Chrome.
+•	Cmder (Console Emultator).
+•	Sublime Text.
 
 # Pré-requisitos
 
