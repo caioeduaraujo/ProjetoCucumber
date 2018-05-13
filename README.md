@@ -13,7 +13,7 @@ Este projeto visa validar o cadastro de usuário no portal Tools QA. Foram criad
 # Instalação
  - Firebug.
  - Chrome.
- - Cmder (Console Emultator).
+ - Cmder (Console Emulator).
  - Sublime Text.
 
 # Pré-requisitos
