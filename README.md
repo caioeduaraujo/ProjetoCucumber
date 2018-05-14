@@ -29,12 +29,12 @@ Para escrever os cenários em Gherkin e Selenium utilizei o editor de texto Subl
 # Recursos de execução
 
  - Após configuração e instalação das ferramentas exigidas para montagem do ambiente:
- - Baixar o projeto
- - abrir o projeto no Sublime Text. Ir na pasta step_definitions e editar o arquivo ruby cria_conta.rb
+ - Baixar o projeto;
+ - abrir o projeto no Sublime Text. Ir na pasta step_definitions e editar o arquivo ruby cria_conta.rb;
  - Na primeira linha, editar o caminho em que foi instalado o chrome driver na maquina:
    exemplo: Selenium::WebDriver::Chrome.driver_path="C:/code/chromedriver.exe" 
 
- - Abrir Cmder
- - Dentro do prompt de comando ir até a pasta raiz do Projeto denominada como \Projeto Cucumber\Projeto Cucumber
- - Executar o comando 'cucumber' dentro da pasta raiz 
+ - Abrir Cmder;
+ - Dentro do prompt de comando ir até a pasta raiz do Projeto denominada como \Projeto Cucumber\Projeto Cucumber;
+ - Executar o comando 'cucumber' dentro da pasta raiz;
  - O chrome driver vai ser iniciado e todos os cenários de testes automatizados serão executados.
