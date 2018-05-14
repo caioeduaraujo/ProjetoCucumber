@@ -31,7 +31,7 @@ Para escrever os cenários em Gherkin e Selenium utilizei o editor de texto Subl
  - Após configuração e instalação das ferramentas exigidas para montagem do ambiente:
  - Baixar o projeto
  - abrir o projeto no Sublime Text. Ir na pasta step_definitions e editar o arquivo ruby cria_conta.rb
-   Na primeira linha, editar o caminho em que foi instalado o chrome driver na maquina:
+ - Na primeira linha, editar o caminho em que foi instalado o chrome driver na maquina:
    exemplo: Selenium::WebDriver::Chrome.driver_path="C:/code/chromedriver.exe" 
 
  - Abrir Cmder
